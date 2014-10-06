@@ -3,14 +3,14 @@ Job Description
 
 We are looking for skilled web developer to join our 2Pay startup to create
 user facing application. Current implementation uses Java in the backend 
-providing RESTful service to iOS and Android application.
+providing RESTful service to iOS and Android applications.
 
 The aim is to create a web version of the app allowing user to manage their
 account on their desktop computer
 
-The work is expected to be in our HQ at Padova, Italy.  Candidate must be
-available to relocate, possibly to a different country in the near future.
-
+Our HQ is located at Padova, Italy.  Candidate will initially be working from
+office but must be ready to relocate, possibly to a different country in the
+near future.
 
 Skill Required
 ===============
@@ -23,3 +23,7 @@ Skill Required
 * Ideally have experience of building cross-browser and cross-platform web apps
 * Demonstrated experience with at least one of the latest JavaScript frameworks –
  AngularJS, ember, backbone
+
+
+
+Posted On: 1 Oct 2014
