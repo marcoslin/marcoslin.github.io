@@ -1,5 +1,4 @@
-Job Description
-===============
+# Job Description
 
 We are looking for skilled web developer to join our 2Pay startup to create
 user facing application. Current implementation uses Java in the backend 
@@ -12,8 +11,7 @@ Our HQ is located at Padova, Italy.  Candidate will initially be working from
 office but must be ready to relocate, possibly to a different country in the
 near future.
 
-Skill Required
-===============
+# Skill Required
 
 * Show demonstrable, practical hands on experience within UI software Development
   (HTML5, CSS3 and JavaScript) roles
